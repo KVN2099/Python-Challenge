@@ -8,7 +8,7 @@ There are exactly ten ways of selecting three from five, 12345:
 
 In combinatorics, we use the notation, 
 
-![Example](1.png "Example)
+![](1.png?raw=true)
 
 In general, 
  
