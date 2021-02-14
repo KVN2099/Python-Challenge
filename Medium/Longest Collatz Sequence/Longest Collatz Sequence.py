@@ -20,6 +20,6 @@ def LongestCollatz(limit):
         steps[number] = steps[sequence] + count
 
 
-    return steps.index(max(steps))
+    return f"Number: { steps.index(max(steps)) }, steps: { max(steps) }"
 
 print(LongestCollatz(999999))
