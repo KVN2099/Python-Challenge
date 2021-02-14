@@ -1,7 +1,7 @@
 def LongestCollatz(limit):
     steps = [0 for i in range(limit + 1)]
-    steps[0]=1
-    steps[1]=1
+    steps[0] = 1
+    steps[1] = 1
 
     for number in range(2,limit + 1):
         sequence = number
@@ -20,6 +20,6 @@ def LongestCollatz(limit):
         steps[number] = steps[sequence] + count
 
 
-    return max(steps)
+    return steps.index(max(steps))
 
 print(LongestCollatz(999999))
