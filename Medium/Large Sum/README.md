@@ -1,5 +1,5 @@
 # Large Sum
-Challenge taken from [Python Principles](https://projecteuler.net/problem=13)
+Challenge taken from [Project Euler](https://projecteuler.net/problem=13)
 
 # Description
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
