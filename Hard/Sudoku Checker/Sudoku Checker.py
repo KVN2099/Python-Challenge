@@ -1,5 +1,5 @@
 '''
-In this program, rows can be stored as 
+In this program, rows can be stored as:
 - Strings: '123456789'
 - Lists: ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 '''
